@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 escribo algo
+<<<<<<< HEAD
 =======
 escribo algo
 escribo para rama 1
+>>>>>>> rama1
+=======
+escribo para rama 1
+escribo 2 para rama1
 >>>>>>> rama1
