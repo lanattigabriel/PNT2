@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 escribo algo
 <<<<<<< HEAD
 =======
@@ -18,4 +19,7 @@ escribo 2 para rama1
 =======
 3er cambio rama1
 4to cambio rama1
+>>>>>>> rama1
+=======
+5to cambio rama1
 >>>>>>> rama1
