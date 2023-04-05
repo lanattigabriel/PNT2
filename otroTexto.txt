@@ -4,8 +4,13 @@ escribo algo
 =======
 escribo algo
 escribo para rama 1
+<<<<<<< HEAD
 >>>>>>> rama1
 =======
 escribo para rama 1
 escribo 2 para rama1
+>>>>>>> rama1
+=======
+escribo 2 para rama1
+3er cambio rama1
 >>>>>>> rama1
